@@ -98,14 +98,9 @@ Please keep code style consistent and add comments where logic is non-trivial.
 
 ---
 
-## License
-
-This repository is by default unlicensed. If you want to allow reuse, consider adding an open-source license such as MIT.
-
----
 
 ## Author
 
 Shivraj Darekar — `shivraj2805` on GitHub
 
-(If you want, I can add a more detailed per-assignment README, list of Java classes, or example run commands for each folder.)
+
