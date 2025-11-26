@@ -15,25 +15,6 @@ This repository contains practical assignments for classical AI topics implement
 
 ---
 
-## Repository structure
-
-```
-AI_Assignments_2025-26/
-├─ ass1/          # Assignment 1 (e.g., basic search problems)
-├─ ass2/          # Assignment 2 (e.g., informed search)
-├─ ass3/          # Assignment 3 (e.g., local search / hill climbing)
-├─ ass4/          # Assignment 4 (e.g., constraint satisfaction - 8-Queens)
-├─ ass5/          # Assignment 5 (e.g., genetic algorithms)
-├─ ass6/          # Assignment 6 (e.g., swarm intelligence / ACO)
-├─ ass7/          # Assignment 7 (e.g., simulated annealing / optimization)
-├─ ass8/          # Assignment 8 (e.g., planning / heuristics)
-├─ ass9/          # Assignment 9 (e.g., chatbot / rule-based system)
-└─ README.md      # This file
-```
-
-> If a directory contains multiple classes, look for the `Main` or similarly named class to execute the example.
-
----
 
 ## Key implementations (high level)
 
